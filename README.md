@@ -1,4 +1,5 @@
-# DirectorioAgenciasPR [![Build Status](https://travis-ci.org/juankarlo/directorio_agencias_pr.png?branch=v1.0.0.pre)](https://travis-ci.org/juankarlo/directorio_agencias_pr) [![Dependency Status](https://gemnasium.com/juankarlo/directorio_agencias_pr.png)](https://gemnasium.com/juankarlo/directorio_agencias_pr)  [![Gem Version](https://badge.fury.io/rb/directorio_agencias_pr.png)](http://badge.fury.io/rb/directorio_agencias_pr)
+# DirectorioAgenciasPR
+[![Build Status](https://travis-ci.org/juankarlo/directorio_agencias_pr.png?branch=v1.0.0.pre)](https://travis-ci.org/juankarlo/directorio_agencias_pr) [![Dependency Status](https://gemnasium.com/juankarlo/directorio_agencias_pr.png)](https://gemnasium.com/juankarlo/directorio_agencias_pr)  [![Gem Version](https://badge.fury.io/rb/directorio_agencias_pr.png)](http://badge.fury.io/rb/directorio_agencias_pr)
 
 A Ruby gem that scrapes Puerto Rico's Agency Directory and lists detailed info.
 
